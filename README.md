@@ -5,7 +5,7 @@
 3. Basic Calculator
 
 ## Theory:
-###VS Code: 
+### VS Code: 
 We went to the official website [code.visualstudio.com](https://code.visualstudio.com) to download Visual Studio Code. Click "Download," choose your operating system, and launch the installation. After following the setup instructions, VS Code will be installed on your computer and available for coding with a wide range of features and extensions.
 ### Hello world:
  It is the utmost basic program in any language where we just print "Hello world". The most basic program that novices construct while learning a new programming language is a straightforward C++ "Hello World" application. It shows how to use the main() function, include libraries, and send output to the console, among other fundamental C++ syntax examples. The program's starting point is the main() method, when text is normally shown on the screen using the std::cout stream object.
